@@ -1,0 +1,25 @@
+  body {
+      background: linear-gradient(rgba(255, 189, 237, 0.491),
+              rgba(245, 234, 251, 0.537),
+              rgba(230, 202, 255, 0.537));
+  }
+
+  img {
+    max-width: 700px
+  }
+
+  .photo, .contact, .home {
+    text-decoration: none;
+    font-size: large;
+    font-weight: 300;
+    
+  }
+
+  a:hover {
+    color: darkblue;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: darkred;
+  }
